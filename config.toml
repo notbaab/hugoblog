@@ -3,17 +3,15 @@ title = "ME!!"
 languageCode = "en-us"
 
 [params]
-  GithubID = "your_github"
-  TwitterID = "your_twitter"
-  LinkedInID = "your_linkedin"
+  GithubID = "etinlb"
+  LinkedInID = "erik-parreira-10349147"
   GoogleplusID = "your_googleplus"
-  FacebookID = "your_facebook"
-  Name = "your_name"
+  Name = "Erik"
   HeaderUsername = "username"
   HeaderHostname = "hostname"
-  Email = "your_email"
+  Email = "erik@erikparreira.com"
   About = "I build stuff. Neat Stuff."
-  ProfilePicture = "/img/headshot.jpg"
+  ProfilePicture = "/img/profile.jpg"
   GoogleAnalytics = "UA-85537712-1"
 
 [menu]
