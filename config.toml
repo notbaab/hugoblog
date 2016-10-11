@@ -1,0 +1,23 @@
+baseurl = "http://erikparreira.com/"
+title = "ME!!"
+languageCode = "en-us"
+
+[params]
+  GithubID = "your_github"
+  TwitterID = "your_twitter"
+  LinkedInID = "your_linkedin"
+  GoogleplusID = "your_googleplus"
+  FacebookID = "your_facebook"
+  Name = "your_name"
+  HeaderUsername = "username"
+  HeaderHostname = "hostname"
+  Email = "your_email"
+  About = "I build stuff. Neat Stuff."
+  ProfilePicture = "/img/headshot.jpg"
+  GoogleAnalytics = "UA-85537712-1"
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
