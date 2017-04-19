@@ -1,0 +1,3 @@
+[submodule "themes/custombeautifulhugo"]
+	path = themes/custombeautifulhugo
+	url = git@github.com:etinlb/beautifulhugo.git
